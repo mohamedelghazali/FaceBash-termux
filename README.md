@@ -12,7 +12,3 @@ Facebook BruteForce [ By Tor ] Tool For Termux.
 * ./facebash.sh
 
 ---
-
-* This Is Just Edited Code So It Can Work In Termux
-* Orignal Code : 
-* https://github.com/mohamedelghazali
